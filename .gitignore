@@ -7,11 +7,8 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-<<<<<<< HEAD
 node_modules
 dist-ssr
-=======
->>>>>>> f94e0756f32959e55d0b7646b96e9ad414f94c4b
 *.local
 
 # Editor directories and files
